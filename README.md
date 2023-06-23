@@ -12,12 +12,15 @@ Display status messages
 
 # Requirements
 Python 3.8
-Tkinter library
-pygame library
-mutagen library
-Installation
 
-Usage
+Tkinter library
+
+pygame library
+
+mutagen library
+
+
+# Usage
 Open the application and click the "Open" button to select a folder containing your music files.
 The playlist will populate with the available songs in the selected folder.
 Click on a song in the playlist to play it.
